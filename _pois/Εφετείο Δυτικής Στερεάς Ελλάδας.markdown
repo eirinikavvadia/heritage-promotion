@@ -1,0 +1,7 @@
+---
+layout: poi
+wikidatum: Q130461472
+title:  Εφετείο Δυτικής Στερεάς Ελλάδας
+---
+
+Sample text  
