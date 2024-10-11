@@ -1,0 +1,7 @@
+---
+layout: poi
+wikidatum: Q130443881
+title:  Εφετείο Δυτικής Μακεδονίας
+---
+
+Sample text  
