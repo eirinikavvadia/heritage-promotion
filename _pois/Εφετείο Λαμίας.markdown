@@ -3,3 +3,4 @@ layout: poi
 wikidatum: Q130451123
 title:  Εφετείο Λαμίας
 ---
+sample text
