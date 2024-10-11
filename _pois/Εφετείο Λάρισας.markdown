@@ -1,0 +1,7 @@
+---
+layout: poi
+wikidatum: Q130452673
+title:  Εφετείο Λάρισας
+---
+
+Sample text  
