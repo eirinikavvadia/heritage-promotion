@@ -1,0 +1,7 @@
+---
+layout: poi
+wikidatum: Q130456732
+title:  Εφετείο Ευβοίας
+---
+
+Sample text  
