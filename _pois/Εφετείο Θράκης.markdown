@@ -1,0 +1,7 @@
+---
+layout: poi
+wikidatum: Q130444141
+title:  Εφετείο Θράκης
+---
+
+Sample text  
