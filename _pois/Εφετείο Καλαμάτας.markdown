@@ -1,0 +1,7 @@
+---
+layout: poi
+wikidatum: Q130450636
+title:  Εφετείο Καλαμάτας
+---
+
+Sample text  
