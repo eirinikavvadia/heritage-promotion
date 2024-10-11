@@ -1,0 +1,7 @@
+---
+layout: poi
+wikidatum: Q130443492
+title:  Εφετείο Πατρών
+---
+
+Sample text 
