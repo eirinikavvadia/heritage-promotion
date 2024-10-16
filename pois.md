@@ -46,8 +46,6 @@ permalink: /pois/
     height: 150px;
     background-size: cover;
     background-position: center;
-    background-color: #000; /* Dark background color */
-    background-blend-mode: multiply;
   }
 
   .card-title {
