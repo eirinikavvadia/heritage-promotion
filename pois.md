@@ -4,7 +4,7 @@ title: POIs List
 permalink: /pois/
 ---
 
-<h2>Courts of Greece</h2>
+<h2>Τα Εφετεία της Ελλάδας</h2>
 <p>Click on a court to view more information.</p>
 
 <!-- Grid container for the court list -->
