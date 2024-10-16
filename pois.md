@@ -5,9 +5,9 @@ permalink: /pois/
 ---
 
 <h2>Τα Εφετεία της Ελλάδας</h2>
-<p>Click on a court to view more information.</p>
+<p>Click για περσσότερες πληροφορίες</p>
 
-<!-- Grid container for the court list -->
+<!-- Grid container -->
 <div class="court-grid">
   {% for p in site.pois %}
     <a href="{{ p.url | relative_url }}" class="court-card" data-wikidatum="{{ p.wikidatum }}">
@@ -18,7 +18,7 @@ permalink: /pois/
   {% endfor %}
 </div>
 
-<!-- Add CSS for the grid layout -->
+<!-- CSS for the grid layout -->
 <style>
   .court-grid {
     display: grid;
@@ -56,7 +56,7 @@ permalink: /pois/
   }
 </style>
 
-<!-- JavaScript to Fetch Title and Image from Wikidata -->
+<!-- Fetch Title and Image from Wikidata -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 <script>
@@ -103,7 +103,7 @@ function get_thumbnail(photoname, size) {
   });
 }
 
-// Helper function to access nested JSON data
+// Function to access nested JSON data
 function get_json_value(json_key, data) {
   try {
     while (json_key.length > 1) {
