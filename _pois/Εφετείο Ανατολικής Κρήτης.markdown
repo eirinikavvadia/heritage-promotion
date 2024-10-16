@@ -1,7 +1,7 @@
 ---
 layout: poi
 wikidatum: Q130447532
-title:  Εφετείο Ανατολίκης Κρήτης
+title:  Εφετείο Ανατολικής Κρήτης
 ---
 
 Sample text  
