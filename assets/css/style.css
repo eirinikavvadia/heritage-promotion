@@ -1,0 +1,28 @@
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+}
+
+a {
+  color: #1e90ff;
+}
+
+a:hover {
+  color: #87cefa;
+}
+
+.court-card, .card-title {
+  background-color: #1c1c1c;
+  color: #e0e0e0;
+}
+
+footer {
+  background-color: #1c1c1c;
+  color: #cccccc;
+  padding: 20px;
+  text-align: center;
+}
