@@ -30,12 +30,16 @@ theme: minima
 plugins:
   - jekyll-feed
 
+include:
+  - assets/css
+  
+custom_css:
+  - "/assets/css/style.css"
+
 collections:
   pois:
     output: true
 
-styles:
-  - "/assets/css/style.css"
   
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
