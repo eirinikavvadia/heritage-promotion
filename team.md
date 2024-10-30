@@ -37,7 +37,7 @@ permalink: /team/
 </style>
 
 <div class="image-overlay-container">
-  <img src="path/to/your/image.jpg" alt="Background Image">
+  <img src="assets/images/Εφετεία.jpg" alt="Background Image">
   <div class="overlay-text">
     Η ιστοσελίδα αυτή δημιουργήθηκε από τις μεταπτυχιακές φοιτήτριες Βασιλείου Χρυσάνθη, Καββαδία Ειρήνη και Παναγιώτου Αφροδίτη, στα πλαίσια του μαθήματος Εργαλεία Προβολής Τουριστικού και Πολιτιστικού Προϊόντος του ΠΜΣ Ψηφιακές Εφαρμογές και Καινοτομία του Ιονίου Πανεπιστημίου.
   </div>
