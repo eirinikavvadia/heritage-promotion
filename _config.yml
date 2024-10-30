@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Τα Εφετεία τηςΕλλάδας
+title: Τα Εφετεία της Ελλάδας
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ο ιστοχώρος αυτός αναπτύχτηκε από τη Βασιλείου Χρυσάνθη, Καββαδία Ειρήνη και Παναγιώτου Αφροδίτη
@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "heritage-promotion" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  Xrysa-Vas
+github_username:  Xrysa-Vas eirinikavvadia A-frodita 
 
 # Build settings
 markdown: kramdown
