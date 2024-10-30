@@ -10,7 +10,7 @@ logo: "/assets/images/Εφετεία.jpeg" # path of site logo, e.g. "/assets/im
 <style>
   .center-background {
     width: 80%;
-    height: 400px;
+    height: 500px;
     margin: 50px auto;
     background-image: url('{{ "/assets/images/Εφετεία.jpg" | relative_url }}');
     background-size: cover;
