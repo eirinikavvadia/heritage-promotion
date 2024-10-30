@@ -3,6 +3,11 @@ layout: page
 title: Εφετεία
 permalink: /pois/
 ---
+<style>
+  body {
+    background-color: #C0C0C0;
+  }
+</style>
 
 <p>Click για περσσότερες πληροφορίες</p>
 
