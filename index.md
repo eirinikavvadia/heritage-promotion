@@ -6,34 +6,25 @@ layout: home
 logo: "/assets/images/Εφετεία.jpeg" # path of site logo, e.g. "/assets/images/Εφετεία.jpeg"
 ---
 
-<!-- Inline CSS for a centered image container -->
-<style>
-  .center-background {
-    width: 80%;
-    height: 500px;
-    margin: 50px auto;
-    background-image: url('{{ "/assets/images/Εφετεία.jpg" | relative_url }}');
+<!-- Banner Image -->
+<div style="
+    width: 100%;
+    height: 270px;
+    background-image: url('{{ "/assets/images/Εφετεία.jpg" | relative_url }}'); /* Replace with actual image path */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: #ffffff; /* Optional: white text color for readability */
-    text-align: center; /* Center-align text inside the container */
-    border-radius: 8px; /* Optional: adds rounded corners */
-    padding: 20px;
-  }
+    border-radius: 15px; /* Adjust radius for rounded edges */
+    overflow: hidden; /* Ensures the corners are rounded correctly */
+    margin-bottom: 20px; /* Adds space below the banner */">
+</div>
 
+<style>
   body {
     background-color: #C0C0C0;
   }
-
 </style>
 
-<!-- Centered Image Container -->
-<div class="center-background">
-</div>
 
 <!-- Homepage Content-->
 <h1>Καλώς ήρθατε στα Εφετεία της Ελλάδας</h1>
