@@ -3,12 +3,6 @@ layout: page
 title: Εφετεία
 permalink: /pois/
 ---
-<style>
-  body {
-    background-color: #C0C0C0;
-  }
-</style>
-
 <p>Click για περσσότερες πληροφορίες</p>
 
 <!-- Grid container -->
@@ -24,6 +18,11 @@ permalink: /pois/
 
 <!-- CSS for the grid layout -->
 <style>
+
+  body {
+    background-color: #C0C0C0;
+  }
+  
   .court-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
