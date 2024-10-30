@@ -4,3 +4,8 @@
 
 layout: home
 ---
+<style>
+  body {
+    background-color: #C0C0C0;
+  }
+</style>
