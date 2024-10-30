@@ -7,7 +7,7 @@ permalink: /team/
 <!-- Banner Image -->
 <div style="
     width: 100%;
-    height: 200px; /* Adjust height as needed */
+    height: 270px;
     background-image: url('{{ "/assets/images/Εφετεία.jpg" | relative_url }}'); /* Replace with actual image path */
     background-size: cover;
     background-position: center;
