@@ -1,6 +1,6 @@
 ---
 layout: page
-title: POIs List
+title: Εφετεία
 permalink: /pois/
 ---
 
