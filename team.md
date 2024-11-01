@@ -8,7 +8,7 @@ permalink: /team/
 <div style="
     width: 100%;
     height: 270px;
-    background-image: url('{{ "/assets/images/Εφετεία.jpg" | relative_url }}'); /* Replace with actual image path */
+    background-image: url('{{ "/assets/images/nauplio.jpg" | relative_url }}'); /* Replace with actual image path */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
