@@ -10,5 +10,5 @@ permalink: /timeline/
     align-items: center;
     height: 80vh;">
   
-    <img src="/heritage-promotion/assets/images/timeline.jpg" style="display: block; margin-top: 20px; width: 100%; height: auto;">
+    <img src="/heritage-promotion/assets/images/timeline.png" style="display: block; margin-top: 20px; width: 100%; height: auto;">
 </div>
