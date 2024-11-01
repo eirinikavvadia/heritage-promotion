@@ -3,12 +3,19 @@ layout: page
 title: Χρονoλόγιο
 permalink: /timeline/
 ---
-<!-- Centered Timeline image -->
+
 <div style="
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 50vh;">
-  
-    <img src="/heritage-promotion/assets/images/timeline.png" style="display: block; margin-top: 20px; width: 100%; height: auto;">
+    max-width: 100%;
+    margin: 20px auto; /* Center the image horizontally with some space */
+    padding: 20px;
+    background-color: white; /* Optional background color for contrast */
+    border-radius: 10px; /* Optional rounded corners */
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1); /* Optional shadow effect */
+    overflow: hidden;
+">
+    <img src="/heritafe-promotion/assets/images/timeline.png" alt="Timeline Image" style="
+        width: 100%;
+        height: auto;
+        display: block;
+    ">
 </div>
