@@ -8,7 +8,7 @@ permalink: /timeline/
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 80vh;">
+    height: 50vh;">
   
     <img src="/heritage-promotion/assets/images/timeline.png" style="display: block; margin-top: 20px; width: 100%; height: auto;">
 </div>
