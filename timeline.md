@@ -13,7 +13,7 @@ permalink: /timeline/
     box-shadow: 0px 0px 10px rgba(0,0,0,0.1); /* Optional shadow effect */
     overflow: hidden;
 ">
-    <img src="/heritafe-promotion/assets/images/timeline.png" alt="Timeline Image" style="
+    <img src="/heritage-promotion/assets/images/timeline.png" alt="Timeline Image" style="
         width: 100%;
         height: auto;
         display: block;
