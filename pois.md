@@ -3,7 +3,6 @@ layout: page
 title: Εφετεία
 permalink: /pois/
 ---
-<p>Click για περσσότερες πληροφορίες</p>
 
 <!-- Grid container -->
 <div class="court-grid">
