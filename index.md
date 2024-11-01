@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-image: "/assets/images/Εφετεία2.jpeg"
-logo: "/assets/images/Εφετεία.jpeg"
+image: "/assets/images/Εφετεία2.jpg"
+logo: "/assets/images/Εφετεία.jpg"
 ---
 
 <!-- Banner Image -->
