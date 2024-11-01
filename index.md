@@ -17,7 +17,7 @@ logo: "/assets/images/Εφετεία.jpeg"
     background-repeat: no-repeat;
     border-radius: 15px;
     overflow: hidden; 
-    margin-bottom: 20px;
+    margin-bottom: 20px;">
 </div>
 
 <style>
