@@ -10,7 +10,7 @@ logo: "/assets/images/efeteia.jpg"
 <!-- Banner Image -->
 <div style="
     width: 100%;
-    height: 270px;
+    height: 320px;
     background-image: url('{{ "/assets/images/aigaio.jpg" | relative_url }}');
     background-size: cover;
     background-position: center;
