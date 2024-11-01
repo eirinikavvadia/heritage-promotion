@@ -11,7 +11,7 @@ permalink: /pois/
     <a href="{{ p.url | relative_url }}" class="court-card" data-wikidatum="{{ p.wikidatum }}">
       <!-- Placeholder for image and title from Wikidata -->
       <div class="card-image" id="image-{{ p.wikidatum }}"></div>
-      <div class="card-title">{{ p.title }}"></div>
+      <div class="card-title">{{ p.title }}</div>
     </a>
   {% endfor %}
 </div>
