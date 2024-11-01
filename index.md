@@ -11,13 +11,13 @@ logo: "/assets/images/Εφετεία.jpeg" # path of site logo, e.g. "/assets/im
 <div style="
     width: 100%;
     height: 270px;
-    background-image: url('{{ "/assets/images/Εφετεία.jpg" | relative_url }}'); /* Replace with actual image path */
+    background-image: url('{{ "/assets/images/Εφετεία.jpg" | relative_url }}');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    border-radius: 15px; /* Adjust radius for rounded edges */
-    overflow: hidden; /* Ensures the corners are rounded correctly */
-    margin-bottom: 20px; /* Adds space below the banner */">
+    border-radius: 15px;
+    overflow: hidden; 
+    margin-bottom: 20px;
 </div>
 
 <style>
