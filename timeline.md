@@ -4,6 +4,12 @@ title: Χρονoλόγιο
 permalink: /timeline/
 ---
 
+<style>
+  body {
+    background-color: #C0C0C0;
+  }
+</style>
+
 <div style="
     max-width: 100%;
     margin: 20px auto; /* Center the image horizontally with some space */
