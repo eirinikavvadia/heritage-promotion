@@ -25,6 +25,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  Xrysa-Vas
 facebook_username: Eirini Kavvadia
+title-logo: "/assets/images/Εφετεία.jpeg"
 logo: "/assets/images/Εφετεία.jpeg" # path of site logo, e.g. "/assets/images/Εφετεία.jpeg"
 google-site-verification: google6d53d43ad37b3e56.html
 
