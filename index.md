@@ -4,14 +4,14 @@
 
 layout: home
 image: "/assets/images/Εφετεία2.jpeg"
-logo: "/assets/images/Εφετεία.jpeg" # path of site logo, e.g. "/assets/images/Εφετεία.jpeg"
+logo: "/assets/images/Εφετεία.jpeg"
 ---
 
 <!-- Banner Image -->
 <div style="
     width: 100%;
     height: 270px;
-    background-image: url('{{ "/assets/images/Εφετεία.jpg" | relative_url }}');
+    background-image: url('{{ "/assets/images/Εφετεία2.jpg" | relative_url }}');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
