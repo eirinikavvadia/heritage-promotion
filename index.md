@@ -11,7 +11,7 @@ logo: "/assets/images/efeteia.jpg"
 <div style="
     width: 100%;
     height: 270px;
-    background-image: url('{{ "/assets/images/Μυτιλήνη_Σύρος.jpg" | relative_url }}');
+    background-image: url('{{ "/assets/images/aigaio.jpg" | relative_url }}');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
