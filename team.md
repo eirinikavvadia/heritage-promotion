@@ -7,7 +7,7 @@ permalink: /team/
 <!-- Banner Image -->
 <div style="
     width: 100%;
-    height: 270px;
+    height: 320px;
     background-image: url('{{ "/assets/images/nauplio.jpg" | relative_url }}'); /* Replace with actual image path */
     background-size: cover;
     background-position: center;
