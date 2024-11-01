@@ -4,6 +4,19 @@ title: Σχετικά
 permalink: /about/
 ---
 
+<!-- Banner Image -->
+<div style="
+    width: 100%;
+    height: 320px;
+    background-image: url('{{ "/assets/images/corfu.jpg" | relative_url }}');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    overflow: hidden;
+    margin-bottom: 20px;">
+</div>
+
 <style>
   body {
     background-color: #C0C0C0;
