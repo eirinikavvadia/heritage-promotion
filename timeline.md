@@ -2,6 +2,7 @@
 layout: page
 title: Χρονoλόγιο
 permalink: /timeline/
+image: /heritage-promotion/assets/images/timeline.png
 ---
 
 <style>
