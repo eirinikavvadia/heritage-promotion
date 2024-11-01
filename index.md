@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-image: "/assets/images/efeteia2.jpg"
+image: "/heritage-promotion/assets/images/efeteia2.jpg"
 logo: "/assets/images/efeteia.jpg"
 ---
 
