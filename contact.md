@@ -26,3 +26,5 @@ image: "/heritage-promotion/assets/images/contact.png"
         display: block;
     ">
 </div>
+
+<p>Για περισσότερες πληροφορίες πατήστε <a href="https://ministryofjustice.gr/wp-content/uploads/2024/06/Efeteia_04062024.pdf" target="_blank">εδώ</a>.</p>
