@@ -20,7 +20,7 @@ image: "/heritage-promotion/assets/images/contact.png"
     box-shadow: 0px 0px 10px rgba(0,0,0,0.1); 
     overflow: hidden;
 ">
-    <img src="/heritage-promotion/assets/images/epikoinonia.png" alt="Comtact" style="
+    <img src="/heritage-promotion/assets/images/contact.png" alt="Contact" style="
         width: 100%;
         height: auto;
         display: block;
