@@ -13,28 +13,41 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ιστοχώρος προβολής πολιτιστικού περιεχομένου
+lang: el-GR
+title: Τα Εφετεία της Ελλάδας
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ο ιστοχώρος αυτός αναπτύχτηκε από τη Βασιλείου Χρυσάνθη, Καββαδία Ειρήνη και Παναγιώτου Αφροδίτη
-  στα πλαίσια εργασίας του μαθήματος Εργαλέια Προβολής Τουριστικού και Πολιτιστικού Προϊόντος
+  Ο ιστοχώρος αυτός αναπτύχτηκε από τις Χρυσάνθη Βασιλείου, Ειρήνη Καββαδία και Αφροδίτη Παναγιώτου
+  στα πλαίσια εργασίας του μαθήματος Εργαλεία Προβολής Τουριστικού και Πολιτιστικού Προϊόντος
   του ΠΜΣ Ψηφιακές Εφαρμογές και Καινοτομία του Ιονίου Πανεπιστημίου.
 baseurl: "heritage-promotion" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  το github repo σας
+github_username:  Xrysa-Vas
+facebook_username: Eirini Kavvadia
+image: "/assets/images/Εφετεία.jpeg"
+title-logo: "/assets/images/Εφετεία.jpeg"
+logo: "/assets/images/Εφετεία.jpeg" # path of site logo, e.g. "/assets/images/Εφετεία.jpeg"
+google-site-verification: google6d53d43ad37b3e56.html
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+
+include:
+  - assets/css
+  
+custom_css:
+  - "/assets/css/style.css"
 
 collections:
   pois:
     output: true
 
-
+  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

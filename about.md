@@ -4,27 +4,35 @@ title: Σχετικά
 permalink: /about/
 ---
 
-Εκτός από blog posts μπορείτε να έχετε και permanent pages, τα αρχεία από τα οποία παράγονται αυτές βρίσκονται στο root φακελο του ιστοτόπου
-αλλά μπορούν στο front matter τους να δηλώνουν σε ποιο permanent link αντιστοιχούν.  
-Παράδειγμα μιας permanent page αποτελεί η τρέχουσα σελίδα η οποία περιγράφει λίγα στοιχεία για το theme _minima_ στο οποίο βασίζεται αυτός ο ιστότοπος.
+<!-- Banner Image -->
+<div style="
+    width: 100%;
+    height: 320px;
+    background-image: url('{{ "/assets/images/corfu.jpg" | relative_url }}');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    overflow: hidden;
+    margin-bottom: 20px;">
+</div>
 
-**_ToDo_ σας**:  
+<style>
+  body {
+    background-color: #C0C0C0;
+  }
 
-- Δημιουργήστε μια ακόμη permanent page η οποία να αναφέρει τα μέλη της ομάδας σας.  
-Η page να έχει όνομα αρχείου `team.md` και να αντιστοιχεί στο permanent link `/team/`
+  .justified-text {
+    text-align: justify;
+  }
+</style>
 
----
+<div class="justified-text">
+  <h2>Τα Εφετεία της Ελλάδας</h2>
+  <p>Καλωσορίσατε στην ιστοσελίδα μας! Εδώ θα ανακαλύψετε έναν ολοκληρωμένο οδηγό για τα Εφετεία της Ελλάδας, ο οποίος συνδυάζει πληροφορίες για την ιστορία, τη    γεωγραφική τους κατανομή, την ίδρυσή τους, τους επίσημους ιστοχώρους τους και τα επιμέρους Πρωτοδικεία που ανήκουν σε κάθε εφετειακή περιφέρεια. Στόχος μας ήταν μέσα από τη φιλική προς τον χρήστη σχεδίαση και το φωτογραφικό υλικό, να μπορείτε να περιηγηθείτε σε πληροφορίες για κάθε Εφετείο και να παρέχουμε εύκολη πρόσβαση σε συγκεντρωμένες και ενημερωμένες πληροφορίες.</p>
 
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+  <h3>Ευχαριστίες</h3>
+  <p>Θα θέλαμε να εκφράσουμε τις ευχαριστίες μας σε όσους συνέβαλαν με το ταλέντο και το χρόνο τους στην αποτύπωση των εικόνων των Εφετείων και την παραχώρηση σε μας του φωτογραφικού υλικού τους. Έγιναν μέρος της προσπάθειάς μας και χάρη στη συμβολή και τη ματιά τους η ιστοσελίδα μας απέκτησε ζωντάνια. Αυτοί είναι:
+Αλεξάνδρα-Ελένη Σταυροπούλου, Θεοδόσιος Τενεκετζίδης, Άννα Τσόρμπα, Ολυμπία Αμελαδιώτη, Σταύρος Μάλαινος, Βασιλική Σιγανού, Αθανασία Πανοπούλου, Στρατής Γουδής, Αθανάσιος Ταγάρας, Όλγα Χανδρινού, Σπύρος Αδάμ, Παναγιώτης Μαρκάτος, Δημήτρης Μανιαδάκης, Ιωάννης-Χρήστος Τσιώλης, Χρυσοβαλάντης Νικόπουλος και Δημήτρης Καραφωτιάς.
+Ευχαριστούμε πολύ!</p>
+</div>
